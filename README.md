@@ -1,2 +1,2 @@
 # Employee-App
-An Employee Management App created using AngularJS + Spring Boot (REST API)
+An Employee Management App created using Angular + Spring Boot (REST API)
